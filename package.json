@@ -46,7 +46,7 @@
     "crypto-js": "^4.0.0",
     "eth-hd-keyring": "^3.6.0",
     "ethereumjs-util": "^7.1.2",
-    "ethers": "^5.5.3",
+    "ethers": "^5.7.2",
     "get-random-values": "^1.2.2",
     "lodash": "^4.17.21",
     "loglevel": "^1.7.1",
