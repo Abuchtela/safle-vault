@@ -39,7 +39,7 @@
     "@getsafle/transaction-controller": "^1.9.1",
     "@getsafle/vault-bitcoin-controller": "^1.2.3",
     "@getsafle/vault-bsc-controller": "^1.2.0",
-    "@getsafle/vault-eth-controller": "^1.2.0",
+    "@getsafle/vault-eth-controller": "^1.4.5",
     "@getsafle/vault-polygon-controller": "^1.2.3",
     "bip39": "^3.0.4",
     "browser-passworder": "^2.0.3",
